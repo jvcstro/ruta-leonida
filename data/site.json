@@ -1,0 +1,17 @@
+{
+  "name": "Ruta Leonida",
+  "tagline": "Guía no oficial de GTA 6 en español",
+  "siteUrl": "https://jvcstro.github.io",
+  "basePath": "/ruta-leonida",
+  "lang": "es-ES",
+  "launchISO": "2026-11-18T23:00:00Z",
+  "launchLabel": "jueves 19 de noviembre, 00:00 (hora peninsular)",
+  "disclaimer": "Ruta Leonida es una guía de fans independiente y no oficial. No está afiliada, patrocinada ni aprobada por Rockstar Games ni Take-Two Interactive. Grand Theft Auto, GTA y Grand Theft Auto VI son marcas de Take-Two Interactive Software, Inc.; se citan solo para identificar el juego.",
+  "nav": [
+    {"href": "/", "label": "Inicio", "short": "Inicio"},
+    {"href": "/hora-de-salida-espana/", "label": "Hora de salida", "short": "Salida"},
+    {"href": "/coleccionables/", "label": "Coleccionables", "short": "Checklist"},
+    {"href": "/ganar-dinero/", "label": "Ganar dinero", "short": "Dinero"},
+    {"href": "/noticias/", "label": "Noticias", "short": "Noticias"}
+  ]
+}
