@@ -1,0 +1,9 @@
+node_modules/
+dist/
+updater/inbox/
+updater/drafts/
+updater/seen.json
+review-*.png
+screenshot-*.png
+og-list.json
+PLAN.md
